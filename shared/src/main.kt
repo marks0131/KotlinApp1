@@ -1,3 +1,3 @@
 fun main() {
-    println(" Multiplatform CLI: ${getWorld()}")
+    println(" Multiplatformっっっっっｑ CLI: ${getWorld()}")
 }
