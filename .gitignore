@@ -1,0 +1,4 @@
+# プロジェクトの除外パス
+/build/
+/build/tasks/_shared_compileJvm/
+/build/tasks/_shared_compileJvmTest/
